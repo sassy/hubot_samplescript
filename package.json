@@ -14,7 +14,7 @@
     "hubot-rules": "~0.1.0",
     "hubot-google-translate": "~0.1.0",
     "hubot-heroku-keepalive": "0.0.4",
-    "hubot-shipit": "~0.1.1",
+    "hubot-shipit": "~0.2.1",
     "hubot-redis-brain": "0.0.4",
     "hubot-scripts": "~2.5.16",
     "hubot": "~2.9.0",

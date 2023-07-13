@@ -6,7 +6,7 @@
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot-maps": "0.0.3",
-    "hubot-help": "0.2.2",
+    "hubot-help": "2.1.1",
     "hubot-google-images": "0.2.7",
     "hubot-diagnostics": "1.0.0",
     "hubot-pugme": "0.1.1",

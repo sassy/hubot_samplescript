@@ -15,7 +15,7 @@
     "hubot-google-translate": "0.2.1",
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-shipit": "0.2.1",
-    "hubot-redis-brain": "1.0.0",
+    "hubot-redis-brain": "2.0.0",
     "hubot-scripts": "2.17.2",
     "hubot": "3.3.2",
     "cheerio": "0.22.0"
